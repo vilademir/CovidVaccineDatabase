@@ -1,1 +1,2 @@
-
+Tried to upload venv folder from project, but unable to
+Have zip file with complete project
